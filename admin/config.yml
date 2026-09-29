@@ -1,0 +1,74 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+site_url: /
+display_url: /
+
+collections:
+  - name: "gallery"
+    label: "Gallery"
+    files:
+      - label: "Kitchens"
+        name: "kitchens"
+        file: "content/kitchens.json"
+        fields:
+          - {label: Page Title, name: title, widget: string}
+          - label: Projects
+            name: projects
+            widget: list
+            summary: "{{fields.caption}}"
+            fields:
+              - {label: Photo, name: image, widget: image, choose_url: false}
+              - {label: Caption, name: caption, widget: string}
+      - label: "Closets / Wardrobes"
+        name: "closets"
+        file: "content/closets.json"
+        fields:
+          - {label: Page Title, name: title, widget: string}
+          - label: Projects
+            name: projects
+            widget: list
+            summary: "{{fields.caption}}"
+            fields:
+              - {label: Photo, name: image, widget: image, choose_url: false}
+              - {label: Caption, name: caption, widget: string}
+      - label: "Timber"
+        name: "timber"
+        file: "content/timber.json"
+        fields:
+          - {label: Page Title, name: title, widget: string}
+          - label: Projects
+            name: projects
+            widget: list
+            summary: "{{fields.caption}}"
+            fields:
+              - {label: Photo, name: image, widget: image, choose_url: false}
+              - {label: Caption, name: caption, widget: string}
+      - label: "Bathrooms"
+        name: "bathrooms"
+        file: "content/bathrooms.json"
+        fields:
+          - {label: Page Title, name: title, widget: string}
+          - label: Projects
+            name: projects
+            widget: list
+            summary: "{{fields.caption}}"
+            fields:
+              - {label: Photo, name: image, widget: image, choose_url: false}
+              - {label: Caption, name: caption, widget: string}
+      - label: "Offices & Studies"
+        name: "offices"
+        file: "content/offices.json"
+        fields:
+          - {label: Page Title, name: title, widget: string}
+          - label: Projects
+            name: projects
+            widget: list
+            summary: "{{fields.caption}}"
+            fields:
+              - {label: Photo, name: image, widget: image, choose_url: false}
+              - {label: Caption, name: caption, widget: string}

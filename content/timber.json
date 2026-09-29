@@ -1,0 +1,25 @@
+{
+  "title": "Timber",
+  "projects": [
+    {
+      "image": "assets/project-08.jpg",
+      "caption": "Timber features & TV wall units"
+    },
+    {
+      "image": "assets/project-10.jpg",
+      "caption": "Timber features & TV wall units"
+    },
+    {
+      "image": "assets/project-11.jpg",
+      "caption": "Timber features & TV wall units"
+    },
+    {
+      "image": "assets/project-12.jpg",
+      "caption": "Timber features & TV wall units"
+    },
+    {
+      "image": "assets/project-21.jpg",
+      "caption": "Timber features & TV wall units"
+    }
+  ]
+}

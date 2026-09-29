@@ -1,0 +1,29 @@
+{
+  "title": "Kitchens",
+  "projects": [
+    {
+      "image": "assets/project-03.jpg",
+      "caption": "Custom kitchen"
+    },
+    {
+      "image": "assets/project-06.jpg",
+      "caption": "Custom kitchen"
+    },
+    {
+      "image": "assets/project-07.jpg",
+      "caption": "Custom kitchen"
+    },
+    {
+      "image": "assets/project-18.jpg",
+      "caption": "Custom kitchen"
+    },
+    {
+      "image": "assets/project-20.jpg",
+      "caption": "Custom kitchen"
+    },
+    {
+      "image": "assets/project-21.jpg",
+      "caption": "Custom kitchen"
+    }
+  ]
+}

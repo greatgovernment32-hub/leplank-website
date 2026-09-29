@@ -1,0 +1,33 @@
+{
+  "title": "Closets",
+  "projects": [
+    {
+      "image": "assets/project-13.jpg",
+      "caption": "Built-in storage & wardrobes"
+    },
+    {
+      "image": "assets/project-14.jpg",
+      "caption": "Built-in storage & wardrobes"
+    },
+    {
+      "image": "assets/project-15.jpg",
+      "caption": "Built-in storage & wardrobes"
+    },
+    {
+      "image": "assets/project-16.jpg",
+      "caption": "Built-in storage & wardrobes"
+    },
+    {
+      "image": "assets/project-17.jpg",
+      "caption": "Built-in storage & wardrobes"
+    },
+    {
+      "image": "assets/project-22.jpg",
+      "caption": "Built-in storage & wardrobes"
+    },
+    {
+      "image": "assets/project-23.jpg",
+      "caption": "Built-in storage & wardrobes"
+    }
+  ]
+}
