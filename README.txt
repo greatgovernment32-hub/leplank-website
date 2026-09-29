@@ -33,3 +33,6 @@ The Contact Us form is configured as a Netlify Form. In Netlify, add a form noti
 
 IMPORTANT
 Do not share the /admin/ login with customers. Only trusted editors should have CMS access.
+
+CORRECTED VERSION - 29 SEPTEMBER 2026
+The navigation layout has been corrected. The desktop navigation now stays in the header, while the mobile navigation is hidden until the menu button is opened. This removes the large blank/stacked navigation area visible in the previous deployment.
